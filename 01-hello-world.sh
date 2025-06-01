@@ -1,0 +1,2 @@
+#Shebang operator
+#!/bin/bash
